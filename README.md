@@ -1,109 +1,119 @@
-# ankur_kharb
-**<h1 align="center">Hello <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" /> I'm Ankur Kharb</h1>**
+<div align="center">
 
+# Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40" /> I'm Ankur Kharb
 
+### 🚀 Full-Stack Developer · ML Enthusiast · Competitive Programmer
 
-**<h3 align="center">Trying to Learn new stuff</h3>**
-<img align="right" alt="Coding" width="375" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ankurkharb)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankurkharb)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankurkharb/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kharb_ankur)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurkharb1234@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurkharb&label=Profile%20views&color=0e75b6&style" alt="3142akay" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Building+Full-Stack+Web+Apps+%F0%9F%8C%90;Machine+Learning+%26+AI+Explorer+%F0%9F%A4%96;500%2B+DSA+Problems+Solved+%F0%9F%92%AA;Always+Learning+New+Stuff+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<p align="left"><em> <a href="https://x.com/kharb_ankur" target="blank"><img src="https://img.shields.io/twitter/follow/kharb_ankur
-?logo=twitter&style=for-the-badge" alt="kharb_ankur
-" /></a> </p>
+</div>
 
- - 🌱 **I’m currently learning** :  Machine Learning, Deep Learning, CP
+---
 
-- 💬 **Ask me about: Data Structures and Algorithms, C++, python,My SQL, DBMS
+## 🧑‍💻 About Me
 
-- 📫 **How to reach me: ankurkharb1234@gmail.com
+```javascript
+const ankur = {
+    education: "B.Tech CSE",
+    currentFocus: "Full-Stack Development & Machine Learning",
+    askMeAbout: ["C++", "Python", "Node.js", "MySQL", "DSA", "DBMS"],
+    funFact: "I turn coffee ☕ into clean, scalable code 🚀"
+};
+```
 
+- 🎓 Pursuing **B.Tech in Computer Science**
+- 🌱 Exploring **Machine Learning & Deep Learning**
+- 🧩 Solved **500+** DSA problems on competitive platforms
+- 📬 Reach me at **ankurkharb1234@gmail.com**
 
+---
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-                       
-                       
+</div>
 
+---
 
+## 🚀 Featured Projects
 
+<div align="center">
 
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Project 1** | Add your project description here | Node.js, MongoDB, HTML/CSS | [📂 Code](#) |
+| **Project 2** | Add your project description here | Python, PyTorch, Flask | [📂 Code](#) |
+| **Project 3** | Add your project description here | C++, DSA, Algorithms | [📂 Code](#) |
 
+</div>
 
+---
 
+## 🏆 Achievements
 
-   
-   
-   
-   
+<div align="center">
 
+🧩 **500+** DSA problems solved on LeetCode & Codeforces &nbsp;|&nbsp;
+💡 **Machine Learning** & **Deep Learning** practitioner &nbsp;|&nbsp;
+🚀 Passionate **Full-Stack Developer** in the making
 
+</div>
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-<h3><em>Connect with me</em> :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" /></h3>
-<p align="left">
-  <a href="http://www.linkedin.com/in/ankurkharb">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/ankurkharb/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://x.com/kharb_ankurimg src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=ankurkharb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ankurkharb&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="170" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurkharb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" height="170" />
 
+</div>
 
+---
 
-                                             
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=ankurkharb&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 
+### ⭐ If you like my work, consider giving a star to my repos!
 
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-
-
-
-
-
-
-                      
-
-                       
- <h2 align="left" ><em>My Tech Stack:</em> <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h2>
-
-
-  
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="javascript" width="45" height="45" />
-
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KZfrjVkTF4RR7UVhC6U-7O679bCWuPWKCfjorUHp0w1pzv1om_G52TpYpPLmhems01A&usqp=CAU" alt="html" width="45" height="45"/>
-<img src="https://www.linuxfoundation.org/hs-fs/hubfs/PyTorchLogo_Icon_fullColor_RGB.png?width=259&height=288&name=PyTorchLogo_Icon_fullColor_RGB.png" width="45" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg.png?20200904111722" alt="php" width="45" height="45"/>
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div>
