@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kharb_ankur)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurkharb1234@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Building+Full-Stack+Web+Apps+%F0%9F%8C%90;Machine+Learning+%26+AI+Explorer+%F0%9F%A4%96;500%2B+DSA+Problems+Solved+%F0%9F%92%AA;Always+Learning+New+Stuff+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Building+Full-Stack+Web+Apps+%F0%9F%8C%90;Machine+Learning+%26+AI+Explorer+%F0%9F%A4%96;350%2B+DSA+Problems+Solved+%F0%9F%92%AA;Always+Learning+New+Stuff+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
