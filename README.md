@@ -73,19 +73,18 @@ const ankur = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Project 1** | Add your project description here | Node.js, MongoDB, HTML/CSS | [📂 Code](#) |
-| **Project 2** | Add your project description here | Python, PyTorch, Flask | [📂 Code](#) |
-| **Project 3** | Add your project description here | C++, DSA, Algorithms | [📂 Code](#) |
+| **Buildr.ai** | AI-powered website generation platform that converts user prompts into complete website structures with dynamic sections, layouts, and content. Includes authentication, project management, background job processing, and real-time website generation. | Next.js, React, TypeScript, tRPC, Prisma, PostgreSQL, Clerk, OpenAI, Inngest, Tailwind CSS | [📂 Code](#) |
+| **NovaAI** | Real-time AI voice interviewer that conducts technical interviews, asks adaptive questions, records responses, and generates detailed performance evaluations using AI-powered analysis. | Next.js, TypeScript, OpenAI, Vapi AI, PostgreSQL, Prisma, Clerk, Tailwind CSS | [📂 Code](#) |
+| **Drone Survey Management System** | Full-stack platform for planning and managing drone survey missions with waypoint generation, mission tracking, live monitoring, map visualization, and survey analytics. | Next.js, React, TypeScript, PostgreSQL, Prisma, Leaflet, Tailwind CSS | [📂 Code](#) |
 
 </div>
-
 ---
 
 ## 🏆 Achievements
 
 <div align="center">
 
-🧩 **500+** DSA problems solved on LeetCode & Codeforces &nbsp;|&nbsp;
+🧩 **320+** DSA problems solved on LeetCode & Codeforces &nbsp;|&nbsp;
 💡 **Machine Learning** & **Deep Learning** practitioner &nbsp;|&nbsp;
 🚀 Passionate **Full-Stack Developer** in the making
 
