@@ -23,13 +23,12 @@ const ankur = {
     education: "B.Tech CSE",
     currentFocus: "Full-Stack Development & Machine Learning",
     askMeAbout: ["C++", "Python", "Node.js", "MySQL", "DSA", "DBMS"],
-    funFact: "I turn coffee ☕ into clean, scalable code 🚀"
 };
 ```
 
 - 🎓 Pursuing **B.Tech in Computer Science**
 - 🌱 Exploring **Machine Learning & Deep Learning**
-- 🧩 Solved **500+** DSA problems on competitive platforms
+- 🧩 Solved **350+** DSA problems on competitive platforms
 - 📬 Reach me at **ankurkharb1234@gmail.com**
 
 ---
